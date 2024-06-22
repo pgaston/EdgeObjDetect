@@ -13,5 +13,9 @@ docker run --gpus=all  \
 	us-docker.pkg.dev/colab-images/public/runtime
 `
 
-Then open your browser as the docker tells you to...
+Then, open the page normally in colab.    Here is the default page - https://colab.research.google.com/github/googlesamples/mediapipe/blob/main/examples/customization/object_detector.ipynb
+
+--> Then 'Connect to runtime', pasting in the url provided.
+
+
 
